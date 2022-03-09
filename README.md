@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eslam</h1>
 <h3 align="center">A passionate Cyber Security from Egypt</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamshaban176&label=Profile%20views&color=0e75b6&style=flat" alt="eslamshaban176" /> </p>
 
