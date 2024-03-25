@@ -89,6 +89,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eslamshaban176/eslamshaban176/output/snake.svg" alt="Snake animation" />
-
 ###
