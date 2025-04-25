@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Junior Back-End Developer [ .Net ]</h3>
+<h3 align="center">Full Stack Developer [ .Net Core | Angular ]</h3>
 
 ###
 
